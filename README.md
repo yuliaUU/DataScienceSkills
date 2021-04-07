@@ -1,6 +1,8 @@
 # DataScienceSkills
 
-1. [Regrex](https://regexone.com/):
+1. Regrex:
+
+[awesome tutorial](https://regexone.com/)
 
 **Character classes**
 
